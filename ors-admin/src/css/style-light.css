@@ -1,0 +1,95 @@
+#fsstable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#fsstable td,
+#fsstable th {
+  border: 1px solid rgb(247, 247, 247);
+  padding: 8px;
+}
+
+#fsstable tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+#fsstable tr:hover {
+  background-color: #cccccc;
+}
+
+#fsstable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #2e899d;
+}
+
+#fsstable button{
+	border-radius: 1px;
+	margin: 0 2px;
+}
+
+#fss-form input {
+  width: 100px;
+  padding: 5px;
+  margin-right: 15px;
+  margin-left: 5px;
+  border: 1px solid white;
+}
+
+#fss-form select {
+  width: 60px;
+  padding: 5px;
+  margin-right: 15px;
+  margin-left: 5px;
+  border: 1px solid white;
+}
+
+#fss-form button {
+  margin-right: 15px;
+  margin-left: 5px;
+}
+
+#fss-form{
+  width: 100%;
+  background-color: #171717;
+  border: 1px solid gray;
+  padding: 10px
+}
+
+#fsstable th {
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#fsstable-syncaccount {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#fsstable-syncaccount td,
+#fsstable-syncaccount th {
+  border: 1px solid rgb(91, 91, 91);
+  padding: 5px;
+}
+
+#fsstable-syncaccount tr:nth-child(even) {
+  background-color: #1d1d1d;
+}
+
+#fsstable-syncaccount tr:hover {
+  background-color: #404040;
+}
+
+#fsstable-syncaccount th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#editmodal{
+  background-color: #d8d8d8;
+}

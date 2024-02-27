@@ -1,0 +1,8 @@
+{
+  "tradeApiList": [
+    {
+      "name": "TradeApi212",
+      "ref": "http://192.168.1.86:8582/oms-accounts"
+    }
+  ]
+}

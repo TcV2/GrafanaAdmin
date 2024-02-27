@@ -1,0 +1,20 @@
+{
+  "type": "panel",
+  "name": "ORS-Admin",
+  "id": "koha-Button",
+  "info": {
+    "description": "ORS Admin",
+    "keywords": ["panel", "control", "input"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}

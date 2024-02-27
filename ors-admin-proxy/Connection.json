@@ -1,0 +1,22 @@
+{
+  "fixConnection": [
+    {
+      "server": "I1",
+      "sender2E": "IORS.01",
+      "sender2GW": "IOMS_1_UAT"
+    },
+    {
+      "server": "I2",
+      "sender2E": "IORS.02",
+      "sender2GW": "IOMS_1_UAT"
+    },
+    {
+      "server": "E1",
+      "senderCompID": "EORS.01"
+    },
+    {
+      "server": "E2",
+      "senderCompID": "EORS.02"
+    }
+  ]
+}
